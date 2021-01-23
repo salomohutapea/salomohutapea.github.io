@@ -1,0 +1,16 @@
+{
+	"background_color": "#ffffff",
+	"theme_color": "#333333",
+	"name": "Salomo Hutapea Portfolio Website",
+	"short_name": "Salomo's website",
+	"display": "minimal-ui",
+	"start_url": "/",
+	"icons": [
+		{
+			"src": "picc.png",
+			"sizes": "1200x1200",
+			"type": "image/png",
+			"purpose": "any maskable"
+		}
+	]
+}
